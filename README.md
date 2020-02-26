@@ -1,2 +1,5 @@
 # Swift-Questions
-This is a wiki that convert the entire Swift 5.1 book into question format that could be asked in interview. 
+
+These document are the Swift 5.2 book converted into question format. I find this a good way to quickly refresh your memory on the topics and quickly go over what you remember and what you may have forgotten.
+
+Each chapter is represented by a file. These were written using the "The Swift Programming Language (Swift 5.2 beta)" book.
